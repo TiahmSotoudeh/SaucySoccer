@@ -4,11 +4,14 @@
 /.vscode/
 /Ball.class
 /GameObject.class
+/Main$1.class
+/Main$2.class
+/Main$State.class
 /Main.class
 /Player.class
 /README.md
 /SoundEffect$Volume.class
 /SoundEffect.class
+/Weapon.class
 /images/
 /music/
-/Weapon.class
